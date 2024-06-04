@@ -196,7 +196,7 @@ available in [COPYING][copying].
 
 ## Contributing
 
-See [CONTRIBUTING][contributing] for mor.
+See [CONTRIBUTING][contributing] for more.
 
 ## Support
 
